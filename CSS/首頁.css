@@ -50,12 +50,9 @@ span {
 }
 .detail {
     text-align: center;
-    margin-bottom: 100px;
 }
 .foot {
     width: 100%;
-    position: fixed;
-    bottom: 0;
 }
 .footimg{
      background: url(../img/foot/foot.jpg);

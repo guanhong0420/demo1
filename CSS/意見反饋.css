@@ -71,9 +71,6 @@ input:focus{
 input::-webkit-input-placeholder { 
     color: red; 
 } 
-.btnClass{
-    margin-bottom: 100px;
-}
 #popupcontentdate{
       position: absolute;
       visibility: hidden;/*可見性*/
@@ -124,8 +121,6 @@ input::-webkit-input-placeholder {
 }
 .foot {
     width: 100%;
-    position: fixed;
-    bottom: 0;
 }
 .footimg{
      background: url(../img/foot/foot.jpg);
